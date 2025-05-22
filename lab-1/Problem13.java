@@ -24,7 +24,7 @@ public class Problem13 {
         System.out.printf(
             "Full Name : %s\nSection : %c\nStudent Id: %s\nHometown: %s\nDescription: %s\n",full_name,section,student_id,hometown,description
         );
-
+        input.close();
 
 
 

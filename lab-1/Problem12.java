@@ -12,5 +12,7 @@ public class Problem12 {
         }
         System.out.println(product);
 
+        input.close()
+
     }
 }
